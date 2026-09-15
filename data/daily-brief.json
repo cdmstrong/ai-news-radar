@@ -1,176 +1,89 @@
 {
-  "generated_at": "2026-09-15T11:41:26.743198Z",
+  "generated_at": "2026-09-15T15:34:33.365262Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_c8036e0526ae",
-      "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive - rouge AI agents attack RubyGems.org",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "primary_url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
+      "story_id": "story_b933e12f991b",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5658e52b13a561a05d335a6d1989fc01e5952b91",
-          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive - rouge AI agents attack RubyGems.org",
-          "title_zh": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-          "title_en": "What a time to be alive - rouge AI agents attack RubyGems.org",
-          "title_original": "What a time to be alive - rouge AI agents attack RubyGems.org",
-          "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
-          "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T12:40:57Z"
-        },
-        {
-          "id": "698d98f8d4f45be571189e4dc3f0cf2ace2ef8d0",
-          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-          "title_zh": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-          "title_en": null,
-          "title_original": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
+          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
+          "title": "New insights from Google’s AI & Economy ATLAS",
+          "title_zh": null,
+          "title_en": "New insights from Google’s AI & Economy ATLAS",
+          "title_original": "New insights from Google’s AI & Economy ATLAS",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "tenderlovemaking.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T16:02:42.072000Z"
-        },
-        {
-          "id": "68796a2f63e9047de57b50a9f9e91ada11c0e245",
-          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / OpenAI bots knew about the RubyGems caching vulnerability",
-          "title_zh": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-          "title_en": "OpenAI bots knew about the RubyGems caching vulnerability",
-          "title_original": "OpenAI bots knew about the RubyGems caching vulnerability",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T12:40:57Z"
-        },
-        {
-          "id": "b5cda5dbb8efcff8bb8918744a6c26d9e49a1ac0",
-          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive – rouge AI agents attack RubyGems.org",
-          "title_zh": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-          "title_en": "What a time to be alive – rouge AI agents attack RubyGems.org",
-          "title_original": "What a time to be alive – rouge AI agents attack RubyGems.org",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T12:40:57Z"
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T13:00:00Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "Hacker News：AI 热帖",
-        "tenderlovemaking.com"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "5658e52b13a561a05d335a6d1989fc01e5952b91",
-          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive - rouge AI agents attack RubyGems.org",
-          "title_zh": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-          "title_en": "What a time to be alive - rouge AI agents attack RubyGems.org",
-          "title_original": "What a time to be alive - rouge AI agents attack RubyGems.org",
-          "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
-          "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T12:40:57Z"
-        },
-        {
-          "id": "698d98f8d4f45be571189e4dc3f0cf2ace2ef8d0",
-          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-          "title_zh": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-          "title_en": null,
-          "title_original": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
+          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
+          "title": "New insights from Google’s AI & Economy ATLAS",
+          "title_zh": null,
+          "title_en": "New insights from Google’s AI & Economy ATLAS",
+          "title_original": "New insights from Google’s AI & Economy ATLAS",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "tenderlovemaking.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T16:02:42.072000Z"
-        },
-        {
-          "id": "68796a2f63e9047de57b50a9f9e91ada11c0e245",
-          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / OpenAI bots knew about the RubyGems caching vulnerability",
-          "title_zh": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-          "title_en": "OpenAI bots knew about the RubyGems caching vulnerability",
-          "title_original": "OpenAI bots knew about the RubyGems caching vulnerability",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T12:40:57Z"
-        },
-        {
-          "id": "b5cda5dbb8efcff8bb8918744a6c26d9e49a1ac0",
-          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive – rouge AI agents attack RubyGems.org",
-          "title_zh": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-          "title_en": "What a time to be alive – rouge AI agents attack RubyGems.org",
-          "title_original": "What a time to be alive – rouge AI agents attack RubyGems.org",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T12:40:57Z"
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T13:00:00Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7173,
-        "story_heat": 0.75
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9635,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T12:40:57Z",
-      "latest_at": "2026-09-14T16:02:42.072000Z",
+      "earliest_at": "2026-09-15T13:00:00Z",
+      "latest_at": "2026-09-15T13:00:00Z",
       "primary_item": {
-        "id": "5658e52b13a561a05d335a6d1989fc01e5952b91",
-        "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive - rouge AI agents attack RubyGems.org",
-        "title_zh": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-        "title_en": "What a time to be alive - rouge AI agents attack RubyGems.org",
-        "title_original": "What a time to be alive - rouge AI agents attack RubyGems.org",
-        "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
+        "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
+        "title": "New insights from Google’s AI & Economy ATLAS",
+        "title_zh": null,
+        "title_en": "New insights from Google’s AI & Economy ATLAS",
+        "title_original": "New insights from Google’s AI & Economy ATLAS",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
@@ -218,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7535,
+        "recency": 0.7124,
         "story_heat": 0.0
       },
       "category": "official",
@@ -253,90 +166,148 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
-      "story_id": "story_9c9f79ea9dc9",
-      "title": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。 / Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_0eee8b8050f5",
+      "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "primary_url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
-          "title": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。 / Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "title_zh": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。",
-          "title_en": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "title_original": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
+          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+          "title_zh": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+          "title_en": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+          "title_original": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+          "summary": "Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。",
+          "recommend_reason_zh": null,
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T19:56:20Z"
+        },
+        {
+          "id": "5e7580780e0e20639ef486615e5bba2b4c7fc928",
+          "title": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
+          "title_zh": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
+          "title_en": null,
+          "title_original": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T19:00:00Z"
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "entelligence.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T00:57:33.124000Z"
+        },
+        {
+          "id": "f9d58eda9ed7cb9f244b5a24a184f3e2db993bc3",
+          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "title_zh": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+          "title_en": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "title_original": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-14T19:56:20Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "Google AI Blog"
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖",
+        "entelligence.ai"
       ],
       "items": [
         {
-          "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
-          "title": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。 / Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "title_zh": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。",
-          "title_en": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "title_original": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
+          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+          "title_zh": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+          "title_en": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+          "title_original": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+          "summary": "Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。",
+          "recommend_reason_zh": null,
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T19:56:20Z"
+        },
+        {
+          "id": "5e7580780e0e20639ef486615e5bba2b4c7fc928",
+          "title": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
+          "title_zh": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
+          "title_en": null,
+          "title_original": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T19:00:00Z"
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "entelligence.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T00:57:33.124000Z"
+        },
+        {
+          "id": "f9d58eda9ed7cb9f244b5a24a184f3e2db993bc3",
+          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "title_zh": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+          "title_en": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "title_original": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-14T19:56:20Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7858,
-        "story_heat": 0.0
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7531,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T19:00:00Z",
-      "latest_at": "2026-09-14T19:00:00Z",
+      "earliest_at": "2026-09-14T19:56:20Z",
+      "latest_at": "2026-09-15T00:57:33.124000Z",
       "primary_item": {
-        "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
-        "title": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。 / Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-        "title_zh": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。",
-        "title_en": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-        "title_original": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-        "summary": null,
+        "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
+        "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+        "title_zh": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+        "title_en": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+        "title_original": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+        "summary": "Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。",
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
@@ -413,15 +384,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7954,
-      "importance": 0.7954,
-      "importance_score": 0.7954,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8325,
+        "recency": 0.7871,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -448,7 +419,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
+      }
+    },
+    {
+      "story_id": "story_76c680c2d727",
+      "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+      "url": "https://www.ithome.com/1/002/750.htm",
+      "primary_url": "https://www.ithome.com/1/002/750.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
+          "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "title_zh": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "title_en": null,
+          "title_original": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/002/750.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T11:48:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
+          "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "title_zh": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "title_en": null,
+          "title_original": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/002/750.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T11:48:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.947,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T11:48:13Z",
+      "latest_at": "2026-09-15T11:48:13Z",
+      "primary_item": {
+        "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
+        "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+        "title_zh": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+        "title_en": null,
+        "title_original": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+        "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/002/750.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T16:01:16.893746Z"
+      }
+    },
+    {
+      "story_id": "story_9c9f79ea9dc9",
+      "title": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。 / Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
+          "title": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。 / Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "title_zh": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。",
+          "title_en": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "title_original": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
+          "title": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。 / Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "title_zh": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。",
+          "title_en": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "title_original": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7429,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T19:00:00Z",
+      "latest_at": "2026-09-14T19:00:00Z",
+      "primary_item": {
+        "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
+        "title": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。 / Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+        "title_zh": "观看宇航员 Christina Koch 与 Google 的 James Manyika 探讨太空、技术与发现。",
+        "title_en": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+        "title_original": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
@@ -496,15 +632,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.963,
+        "recency": 0.9104,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -530,231 +666,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
-      }
-    },
-    {
-      "story_id": "story_6d1f643d12b4",
-      "title": "DevFest is back",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
-          "title": "DevFest is back",
-          "title_zh": null,
-          "title_en": "DevFest is back",
-          "title_original": "DevFest is back",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
-          "title": "DevFest is back",
-          "title_zh": null,
-          "title_en": "DevFest is back",
-          "title_original": "DevFest is back",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7525,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T16:00:00Z",
-      "latest_at": "2026-09-14T16:00:00Z",
-      "primary_item": {
-        "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
-        "title": "DevFest is back",
-        "title_zh": null,
-        "title_en": "DevFest is back",
-        "title_original": "DevFest is back",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
-      }
-    },
-    {
-      "story_id": "story_0eee8b8050f5",
-      "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
-      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "primary_url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
-          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
-          "title_zh": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
-          "title_en": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
-          "title_original": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
-          "summary": "Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。",
-          "recommend_reason_zh": null,
-          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T19:56:20Z"
-        },
-        {
-          "id": "5e7580780e0e20639ef486615e5bba2b4c7fc928",
-          "title": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
-          "title_zh": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
-          "title_en": null,
-          "title_original": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-          "source": "entelligence.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T00:57:33.124000Z"
-        },
-        {
-          "id": "8e769b3e4892d5d1da0982c6dce4e0ab29170994",
-          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-          "title_zh": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
-          "title_en": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-          "title_original": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T19:56:20Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News：AI 热帖",
-        "entelligence.ai"
-      ],
-      "items": [
-        {
-          "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
-          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
-          "title_zh": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
-          "title_en": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
-          "title_original": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
-          "summary": "Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。",
-          "recommend_reason_zh": null,
-          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T19:56:20Z"
-        },
-        {
-          "id": "5e7580780e0e20639ef486615e5bba2b4c7fc928",
-          "title": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
-          "title_zh": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
-          "title_en": null,
-          "title_original": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的模型是否足以进行代码审查？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-          "source": "entelligence.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T00:57:33.124000Z"
-        },
-        {
-          "id": "8e769b3e4892d5d1da0982c6dce4e0ab29170994",
-          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-          "title_zh": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
-          "title_en": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-          "title_original": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T19:56:20Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.796,
-      "importance": 0.796,
-      "importance_score": 0.796,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7965,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T19:56:20Z",
-      "latest_at": "2026-09-15T00:57:33.124000Z",
-      "primary_item": {
-        "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
-        "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
-        "title_zh": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
-        "title_en": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
-        "title_original": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
-        "summary": "Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。",
-        "recommend_reason_zh": null,
-        "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
@@ -802,15 +714,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9773,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -836,7 +748,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
+      }
+    },
+    {
+      "story_id": "story_53a811285ee1",
+      "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
+      "source": "公众号：生数科技（Vidu·视频）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3b100d82b102c8649fc96cee21fef0c21fe60dc9",
+          "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+          "title_zh": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+          "title_en": null,
+          "title_original": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+          "summary": "生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
+          "source": "公众号：生数科技（Vidu·视频）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T14:30:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：生数科技（Vidu·视频）"
+      ],
+      "items": [
+        {
+          "id": "3b100d82b102c8649fc96cee21fef0c21fe60dc9",
+          "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+          "title_zh": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+          "title_en": null,
+          "title_original": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+          "summary": "生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
+          "source": "公众号：生数科技（Vidu·视频）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T14:30:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9848,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-15T14:30:59Z",
+      "latest_at": "2026-09-15T14:30:59Z",
+      "primary_item": {
+        "id": "3b100d82b102c8649fc96cee21fef0c21fe60dc9",
+        "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+        "title_zh": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+        "title_en": null,
+        "title_original": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+        "summary": "生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
+        "source": "公众号：生数科技（Vidu·视频）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
@@ -884,15 +877,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8521,
+        "recency": 0.8056,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -917,7 +910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
@@ -965,15 +958,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7652,
+        "recency": 0.7235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,7 +991,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
+      }
+    },
+    {
+      "story_id": "story_6d1f643d12b4",
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
+          "title": "DevFest is back",
+          "title_zh": null,
+          "title_en": "DevFest is back",
+          "title_original": "DevFest is back",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
+          "title": "DevFest is back",
+          "title_zh": null,
+          "title_en": "DevFest is back",
+          "title_original": "DevFest is back",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7115,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T16:00:00Z",
+      "latest_at": "2026-09-14T16:00:00Z",
+      "primary_item": {
+        "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
+        "title": "DevFest is back",
+        "title_zh": null,
+        "title_en": "DevFest is back",
+        "title_original": "DevFest is back",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
@@ -1046,15 +1122,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9413,
+        "recency": 0.8899,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1079,7 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
@@ -1127,15 +1203,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9773,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1161,7 +1237,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
@@ -1209,15 +1285,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8851,
+        "recency": 0.8368,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1242,7 +1318,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
+      }
+    },
+    {
+      "story_id": "story_8aad15377fca",
+      "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
+      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+      "primary_url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+      "source": "Trail of Bits：AI安全研究",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
+          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
+          "title_zh": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+          "title_en": "1Password's AI patching benchmark is misleading",
+          "title_original": "1Password's AI patching benchmark is misleading",
+          "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+          "source": "Trail of Bits：AI安全研究",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Trail of Bits：AI安全研究"
+      ],
+      "items": [
+        {
+          "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
+          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
+          "title_zh": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+          "title_en": "1Password's AI patching benchmark is misleading",
+          "title_original": "1Password's AI patching benchmark is misleading",
+          "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+          "source": "Trail of Bits：AI安全研究",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7201,
+      "importance": 0.7201,
+      "importance_score": 0.7201,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9361,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-15T11:00:00Z",
+      "latest_at": "2026-09-15T11:00:00Z",
+      "primary_item": {
+        "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
+        "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
+        "title_zh": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+        "title_en": "1Password's AI patching benchmark is misleading",
+        "title_original": "1Password's AI patching benchmark is misleading",
+        "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+        "recommend_reason_zh": null,
+        "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+        "source": "Trail of Bits：AI安全研究",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
@@ -1290,15 +1447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7501,
+        "recency": 0.7092,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1323,7 +1480,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
@@ -1371,15 +1528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9773,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1405,7 +1562,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
@@ -1453,15 +1610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9773,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1487,7 +1644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     },
     {
@@ -1535,15 +1692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9773,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1569,253 +1726,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
-      }
-    },
-    {
-      "story_id": "story_749cd19070dd",
-      "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-      "url": "https://www.aibase.com/news/31060",
-      "primary_url": "https://www.aibase.com/news/31060",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b44e753979970f394c7664a09621b5c0055d84d3",
-          "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-          "title_zh": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-          "title_en": null,
-          "title_original": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31060",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T10:05:53.246055Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b44e753979970f394c7664a09621b5c0055d84d3",
-          "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-          "title_zh": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-          "title_en": null,
-          "title_original": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31060",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T10:05:53.246055Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9773,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T10:05:53.246055Z",
-      "latest_at": "2026-09-15T10:05:53.246055Z",
-      "primary_item": {
-        "id": "b44e753979970f394c7664a09621b5c0055d84d3",
-        "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-        "title_zh": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-        "title_en": null,
-        "title_original": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31060",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
-      }
-    },
-    {
-      "story_id": "story_4771199a8ed2",
-      "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-      "url": "https://www.aibase.com/news/31058",
-      "primary_url": "https://www.aibase.com/news/31058",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
-          "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "title_en": null,
-          "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31058",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T10:05:53.246055Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
-          "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "title_en": null,
-          "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31058",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T10:05:53.246055Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9773,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T10:05:53.246055Z",
-      "latest_at": "2026-09-15T10:05:53.246055Z",
-      "primary_item": {
-        "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
-        "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-        "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-        "title_en": null,
-        "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31058",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
-      }
-    },
-    {
-      "story_id": "story_6b48114331e8",
-      "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-      "url": "https://www.aibase.com/news/31059",
-      "primary_url": "https://www.aibase.com/news/31059",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "69873021dcb01777944fd2372744ec790fd80430",
-          "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-          "title_zh": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-          "title_en": null,
-          "title_original": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31059",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T10:05:53.246055Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "69873021dcb01777944fd2372744ec790fd80430",
-          "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-          "title_zh": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-          "title_en": null,
-          "title_original": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31059",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T10:05:53.246055Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9773,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T10:05:53.246055Z",
-      "latest_at": "2026-09-15T10:05:53.246055Z",
-      "primary_item": {
-        "id": "69873021dcb01777944fd2372744ec790fd80430",
-        "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-        "title_zh": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-        "title_en": null,
-        "title_original": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31059",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T11:58:22.590110Z"
+        "scored_at": "2026-09-15T16:01:16.893746Z"
       }
     }
   ]
